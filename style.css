@@ -1,0 +1,47 @@
+.cabecalho{
+    box-shadow: 2px 2px 2px black;
+}
+.imagem-carrossel{
+    object-fit: cover;
+    height: 400px;
+
+}
+.fonte-logo{
+    font-family: 'Pacifico', cursive;
+    color: darkred;
+}
+.font-fantasia{
+    font-family: 'Pacifico', cursive;
+}
+.carrossel{
+    box-shadow: 2px 2px 2px darkred;
+}
+.titulo-carrossel, .titulo-carrossel-2{
+    font-family: 'Pacifico', cursive;
+}
+
+.titulo-carrossel-2{
+    color: darkred;
+}
+.botao-cards{
+    background-color: darkred;
+    color: white;
+}
+.card-width{
+    max-width: 18rem;
+}
+.borda-card{
+    border-color: darkred;;
+}
+.botao-cards:hover{
+    background-color: white;
+    color: darkred;
+    border: solid darkred;
+}
+.card-imagem{
+    object-fit: cover;
+    height: 200px;
+}
+
+
+
